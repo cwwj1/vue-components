@@ -168,7 +168,7 @@ export default {
   },
   data () {
     return {
-      showCode: false,
+      showCode: true,
     }
   },
   methods: {
